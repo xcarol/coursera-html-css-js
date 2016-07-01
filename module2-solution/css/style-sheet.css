@@ -1,6 +1,8 @@
-﻿* {
+﻿
+* {
   box-sizing: border-box;
 }
+
 h1 {
   margin-bottom: 15px;
 }
@@ -148,7 +150,11 @@ p {
   }
 }
 
-#mod2-grid {
-    float:left;
-    
+.title {
+    position:relative; 
+    top:0%; 
+    left:70%; 
+    width:30%; 
+    border:2px solid;
+    color:darkblue;
 }
