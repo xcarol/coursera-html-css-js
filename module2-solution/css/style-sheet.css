@@ -15,8 +15,7 @@ h1 {
 
 p {
   padding: 5px;
-  min-height: 50px;
-  max-height: 100px;
+  height: 75px;
   overflow: auto;
 }
 
