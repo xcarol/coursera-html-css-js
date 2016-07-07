@@ -42,6 +42,10 @@ header {
     font-size: 1.2em;
 }
 
+#nav-list a {
+  color: chocolate;
+}
+
 #our-menu {
   margin-top: 15px;
   margin-bottom: 15px;
