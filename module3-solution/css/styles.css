@@ -13,7 +13,7 @@ header {
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid #61122f;
+  border: 1px solid chocolate;
 }
 
 .navbar-brand {
@@ -21,8 +21,8 @@ header {
 }
 
 .navbar-brand h1 {
+  color: chocolate;
   margin-top: 0px;
-  color: #557c3e;
   font-size: 1.5em;
   font-weight: bold;
   line-height: .75;
