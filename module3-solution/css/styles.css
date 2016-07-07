@@ -1,0 +1,46 @@
+
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: blanchedalmond;
+}
+
+.cell-section {
+  padding: 10px;
+  height: 1000px;
+  background-color: burlywood;
+}
+
+.navbar {
+    min-height: 60px;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+
+.navbar-brand {
+    padding:20px;
+}
+
+
+.navbar-brand h1 {
+  margin-top: 0px;
+  color: #557c3e;
+  font-size: 1.5em;
+  font-weight: bold;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#our-menu {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 175%;
+}
+
